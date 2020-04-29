@@ -1,5 +1,5 @@
 body {  
-    color:bisque; 
+    color:burlywood; 
     font-size:1em; 
     font-family:Cambria,Georgia,"Book Antiqua",serif
     
@@ -11,7 +11,7 @@ h3, h1 {
     font-weight:bolder;
 }
 p {  
-    color:bisque;
+    color:burlywood; 
     font-style:italic;  
 }
 strong {
