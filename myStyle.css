@@ -1,9 +1,32 @@
 body {  
-    color:blue;  
+    color:bisque; 
+    font-size:1em; 
+    font-family:Cambria,Georgia,"Book Antiqua",serif
+    
 }
-h3 {  
-    color:aquamarine;  
+h3, h1 {  
+    color:coral;  
+    background-color: lightpink; 
+    width: fit-content; 
+    font-weight:bolder;
 }
 p {  
-    color:rebeccapurple;  
+    color:bisque;
+    font-style:italic;  
+}
+strong {
+    background-color: pink;  
+    color:darkslateblue;
+}
+a:link {  
+    color:darkgreen;  
+}
+a:visited {  
+    color:lightgreen;  
+}
+a:hover {  
+    color:greenyellow;  
+}
+a:active {  
+    color:seagreen;  
 }
