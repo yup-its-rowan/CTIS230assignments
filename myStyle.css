@@ -26,10 +26,10 @@ h3.reg {
 img#chair {
     float: left;
     padding: 2em;
-    width: 80%;
+    width: 40%;
 }
 img#chessBoard {
-    width: 130%;
+    width: 65%;
 }
 ol li{
     margin-bottom: 1.25em;
