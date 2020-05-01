@@ -10,11 +10,38 @@ h3, h1 {
     width: fit-content; 
     font-weight:bolder;
 }
+ul.chess {
+    color: burlywood;
+    font-size:1.1em;
+    border-style: solid;
+    border-radius: 0.3em;
+}
+ul.physics {
+    font-size:0.9em;
+    color:sienna;
+}
+h3.reg {
+    background-color: steelblue;
+}
+img#chair {
+    float: left;
+    padding: 2em;
+    width: 80%;
+}
+img#chessBoard {
+    width: 130%;
+}
+ol li{
+    margin-bottom: 1.25em;
+}
+ul li {
+    margin-bottom: 0.2em;
+}
 p {  
     color:burlywood; 
     font-style:italic;  
 }
-strong {
+p strong {
     background-color: pink;  
     color:darkslateblue;
 }
@@ -29,4 +56,14 @@ a:hover {
 }
 a:active {  
     color:seagreen;  
+}
+div.startTemp {
+    font-size: 1.2em;
+}
+div.flexible{
+    display: flex;
+    flex-direction: column;
+}
+a.item {
+    padding: 3em;
 }
