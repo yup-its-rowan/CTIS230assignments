@@ -1,5 +1,6 @@
 body {  
     color:burlywood; 
+    background-color:darkmagenta;
     font-size:1em; 
     font-family:Cambria,Georgia,"Book Antiqua",serif
     
@@ -18,7 +19,7 @@ ul.chess {
 }
 ul.physics {
     font-size:0.9em;
-    color:sienna;
+    color:aqua;
 }
 h3.reg {
     background-color: steelblue;
@@ -64,6 +65,12 @@ div.flexible{
     display: flex;
     flex-direction: column;
 }
-a.item {
+a#item, a#item2 {
     padding: 3em;
+}
+img#jcena {
+    display:none;
+}
+button#jc {
+    margin-bottom: 1em;
 }
