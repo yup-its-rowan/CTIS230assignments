@@ -93,7 +93,7 @@ button#jc {
     body li {
         font-size: 0.7em;
     }
-    h3 {
-        float: left;
+    h3, h1, h2{
+        text-align: center;
     }
 }
